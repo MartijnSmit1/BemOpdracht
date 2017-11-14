@@ -5,7 +5,7 @@ body, html {
 	color: white;
 }
 
-.coldplay{
+.image_cover{
 	height: 500px;
 	width: 500px;
 	overflow: hidden;
@@ -14,7 +14,7 @@ body, html {
 	padding: 0;
 }
 
-.coldplay article {
+.image_cover article {
 	position: relative;
 	margin-top: -0px;
 	background-color: rgba(255,255,255,0.8);
@@ -25,7 +25,7 @@ body, html {
 }
 
 
-.coldplay:hover article {
+.image_cover:hover article {
 	margin-top: -503px;
 	-webkit-transform: rotate(360deg);
     transform: rotate(360deg);
